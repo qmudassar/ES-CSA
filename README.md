@@ -1,3 +1,7 @@
 # Evamp & Saanga - GenAI Customer Service Agent
-### Project Engineer: Qasim Mudassar (B.S. Machine Learning & Neural Computation)
 
+## Software Engineer/Technician:
+**Qasim Mudassar** (B.S. Machine Learning & Neural Computation)  
+
+🔗 [LinkedIn: Qasim Mudassar](https://www.linkedin.com/in/qmudassar/)
+🔗 [Github: qmudassar](https://github.com/qmudassar)
