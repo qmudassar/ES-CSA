@@ -35,5 +35,5 @@ To install all dependencies at once, run -> "pip install -r requirements.txt"
 ### Project Engineer/Technician:
 **Qasim Mudassar** (B.S. Machine Learning & Neural Computation)
 
-🔗 [LinkedIn: Qasim Mudassar](https://www.linkedin.com/in/qmudassar/)
-🔗 [Github: qmudassar](https://github.com/qmudassar)
+🔗 [LinkedIn](https://www.linkedin.com/in/qmudassar/)
+🔗 [Github](https://github.com/qmudassar)
