@@ -1,22 +1,34 @@
-import pandas as pd
-import numpy as np
 import transformers
 import torch
 import os
-
-
-## Downloading Mistral-7B-Instruct-v0.1
-
+from dotenv import load_dotenv
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-MODEL_NAME = "mistralai/Mistral-7B-Instruct-v0.1"
+## Mistral-7B-Instruct-v0.1
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+load_dotenv()
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
+model_name = os.getenv("MODEL")
+device = os.getenv("DEVICE")
+
+tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=False)
 
 model = AutoModelForCausalLM.from_pretrained(
-    MODEL_NAME, torch_dtype="auto", device_map="auto"
+    model_name, torch_dtype="auto", device_map="auto"
 ).to(device)
 
-print(" Mistral-7B-Instruct-v0.1 Model Loaded Successfully!")
+print("Model Loaded Successfully!")
+
+
+## Test Query Function
+
+def generate_response(prompt):
+    input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(device)
+    output = model.generate(input_ids, max_length=200)
+    return tokenizer.decode(output[0], skip_special_tokens=True)
+
+## Test Query Example
+
+query = "What is my remaining data browsing allowance?"
+response = generate_response(query)
+print("🔹 Response:", response)

@@ -1,3 +1,3 @@
-# This is the repository for the research and development of the E&S GenAI Customer Support Agent.
+# Evamp & Saanga - GenAI Customer Service Agent
+### Project Engineer: Qasim Mudassar (B.S. Machine Learning & Neural Computation)
 
-pip install transformers langchain sentence-transformers bitsandbytes accelerate
