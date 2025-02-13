@@ -11,8 +11,29 @@ The **E&S GenAI Customer Service Agent** is an AI-powered assistant chatbot desi
 - **Actionable Recommendations**: Suggests personalized plans, offers, and upgrades.
 
 
+**Requirements & Dependencies:**
+
+To run this project, ensure you have the following dependencies installed:
+
+- Python **3.9+**
+- At least **16GB RAM** (Recommended: **32GB+ or a Cloud GPU**)
+- CUDA-enabled **NVIDIA GPU** (For optimal performance)
+- Ubuntu/Linux/macOS (Windows supported but not optimized)
+
+| Package          | Description |
+|-----------------|--------------------------------------|
+| `pandas`        | Data manipulation & processing |
+| `torch`         | PyTorch for model execution (GPU/CPU) |
+| `transformers`  | Hugging Face library for LLM interaction |
+| `accelerate`    | Optimizes performance across multiple GPUs |
+| `python-dotenv` | Loads environment variables from `.env` file |
+
+
+To install all dependencies at once, run -> "pip install -r requirements.txt"
+
+
 ### Project Engineer/Technician:
-**Qasim Mudassar** (B.S. Machine Learning & Neural Computation)  
+**Qasim Mudassar** (B.S. Machine Learning & Neural Computation)
 
 🔗 [LinkedIn: Qasim Mudassar](https://www.linkedin.com/in/qmudassar/)
 🔗 [Github: qmudassar](https://github.com/qmudassar)
