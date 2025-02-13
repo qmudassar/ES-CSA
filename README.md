@@ -1,1 +1,3 @@
 # This is the repository for the research and development of the E&S GenAI Customer Support Agent.
+
+pip install transformers langchain sentence-transformers bitsandbytes accelerate
