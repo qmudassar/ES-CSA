@@ -1,2 +1,4 @@
 .env
+.venv
 data/combined/combined_data.csv
+.ipynb_checkpoints/
