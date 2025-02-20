@@ -9,7 +9,6 @@ python-dotenv
 sentencepiece
 protobuf
 langchain
-llama-index
-langchain_community
-ollama
-chromadb
+langchain-community
+langchain-core
+langchain-openai
