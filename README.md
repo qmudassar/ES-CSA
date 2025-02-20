@@ -5,7 +5,7 @@ The **E&S GenAI Customer Service Agent** is an AI-powered assistant chatbot desi
 
 **Features:**
 
-- **LLM Integration**: Uses the `Mistral-7B-Instruct-v0.1` open source large language model (LLM) to generate intelligent, human-like responses.
+- **LLM Integration**: Uses the `Microsoft Phi-2` open source large language model (LLM) to generate intelligent, human-like responses.
 - **Personalized Query Handling**: Processes customer queries based on provided data and domain knowledge.
 - **RAG Workflow**: Enhances response accuracy by retrieving relevant external knowledge.
 - **Actionable Recommendations**: Suggests personalized plans, offers, and upgrades.
@@ -19,18 +19,9 @@ To run this project, ensure you have the following dependencies installed:
 - At least **16GB RAM** (Recommended: **32GB+ or a Cloud GPU**)
 - CUDA-enabled **NVIDIA GPU** (For optimal performance)
 - Ubuntu/Linux/macOS (Windows supported but not optimized)
-
-| Package          | Description |
-|-----------------|--------------------------------------|
-| `pandas`        | Data manipulation & processing |
-| `torch`         | PyTorch for model execution (GPU/CPU) |
-| `transformers`  | Hugging Face library for LLM interaction |
-| `accelerate`    | Optimizes performance across multiple GPUs |
-| `python-dotenv` | Loads environment variables from `.env` file |
-
+- Packages listed in requirements.txt
 
 To install all dependencies at once, run -> "pip install -r requirements.txt"
-
 
 ### Project Engineer/Technician:
 **Qasim Mudassar** (B.S. Machine Learning & Neural Computation)
