@@ -1,4 +1,7 @@
 pandas
+numpy
+scikit-learn
+matplotlib
 torch
 transformers
 accelerate
@@ -6,6 +9,7 @@ python-dotenv
 sentencepiece
 protobuf
 langchain
+llama-index
 langchain_community
 ollama
 chromadb

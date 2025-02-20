@@ -1,4 +1,4 @@
 .env
-.venv
+csa_env
 data/combined/combined_data.csv
 .ipynb_checkpoints/
