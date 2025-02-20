@@ -38,6 +38,7 @@ def generate_response(prompt):
     return tokenizer.decode(output[0], skip_special_tokens=True)
 
 # Test Query
+
 query = "What are the benefits of Phi-2 for chatbots?"
 response = generate_response(query)
 print(f"Response: {response}")
