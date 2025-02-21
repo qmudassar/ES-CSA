@@ -11,8 +11,8 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
-chromadb
 faiss-cpu
+faiss-gpu
 openai
 tiktoken
 sentence-transformers
