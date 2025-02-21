@@ -19,7 +19,7 @@ To run this project, ensure you have the following dependencies installed:
 - At least **16GB RAM** (Recommended: **32GB+ or a Cloud GPU**)
 - CUDA-enabled **NVIDIA GPU** (For optimal performance)
 - Ubuntu/Linux/macOS (Windows supported but not optimized)
-- Packages listed in requirements.txt
+- Python packages/dependencies listed in requirements.txt file.
 
 To install all dependencies at once, run -> "pip install -r requirements.txt"
 
