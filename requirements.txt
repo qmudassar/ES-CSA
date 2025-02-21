@@ -5,7 +5,6 @@ matplotlib
 torch
 transformers
 accelerate
-python-dotenv
 sentencepiece
 protobuf
 langchain
@@ -14,3 +13,6 @@ langchain-core
 langchain-openai
 chromadb
 faiss-cpu
+openai
+tiktoken
+sentence-transformers
