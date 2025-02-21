@@ -1,4 +1,5 @@
 .env
 csa_env
 data/combined/combined_data.csv
+data/metadata/metadata.json
 .ipynb_checkpoints/
