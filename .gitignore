@@ -3,4 +3,5 @@ csa_env
 data/combined/combined_data.csv
 data/metadata/metadata.json
 data/embedded/embeddings_mpnet.pkl
+data/embedded/faiss_index_mpnet.index
 .ipynb_checkpoints/
