@@ -1,7 +1,7 @@
 # Evamp & Saanga - GenAI Customer Service Agent
 
 ### Project Overview:
-The **E&S GenAI Customer Service Agent** is an AI-powered assistant chatbot designed to provide personalized customer service by utilizing tailored responses to consumer queries and enhanced customer interactions. This agent integrates **Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG)** to provide **personalized, context-aware responses** based on customer data, past interactions, and domain knowledge.
+The **E&S GenAI Customer Service Agent** is an AI-powered chatbot assistant designed to provide personalized customer service by utilizing tailored responses to consumer queries and enhanced customer interactions. This agent integrates **Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG)** to provide **personalized, context-aware responses** based on customer data, past interactions, and domain knowledge.
 
 **Features:**
 
