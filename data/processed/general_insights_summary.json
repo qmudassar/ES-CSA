@@ -1,0 +1,126 @@
+{
+    "General Insights": {
+        "Regional Popularity": [
+            {
+                "City": "Quetta",
+                "User_Count": 75
+            },
+            {
+                "City": "Lahore",
+                "User_Count": 73
+            },
+            {
+                "City": "Peshawar",
+                "User_Count": 62
+            },
+            {
+                "City": "Faisalabad",
+                "User_Count": 61
+            },
+            {
+                "City": "Rawalpindi",
+                "User_Count": 60
+            },
+            {
+                "City": "Islamabad",
+                "User_Count": 59
+            },
+            {
+                "City": "Multan",
+                "User_Count": 58
+            },
+            {
+                "City": "Karachi",
+                "User_Count": 52
+            }
+        ],
+        "User Type Distribution": [
+            {
+                "User_Type": "Postpaid",
+                "Count": 263
+            },
+            {
+                "User_Type": "Prepaid",
+                "Count": 237
+            }
+        ],
+        "Regional User Type Distribution": [
+            {
+                "Postpaid": 33,
+                "Prepaid": 28
+            },
+            {
+                "Postpaid": 32,
+                "Prepaid": 27
+            },
+            {
+                "Postpaid": 24,
+                "Prepaid": 28
+            },
+            {
+                "Postpaid": 42,
+                "Prepaid": 31
+            },
+            {
+                "Postpaid": 27,
+                "Prepaid": 31
+            },
+            {
+                "Postpaid": 40,
+                "Prepaid": 22
+            },
+            {
+                "Postpaid": 35,
+                "Prepaid": 40
+            },
+            {
+                "Postpaid": 30,
+                "Prepaid": 30
+            }
+        ],
+        "Most Common Ticket Categories": [
+            {
+                "Category": "Network Issue",
+                "Ticket_Count": 1018
+            },
+            {
+                "Category": "General Inquiry",
+                "Ticket_Count": 1015
+            },
+            {
+                "Category": "Technical Support",
+                "Ticket_Count": 1013
+            },
+            {
+                "Category": "Billing",
+                "Ticket_Count": 1009
+            },
+            {
+                "Category": "Complaint",
+                "Ticket_Count": 945
+            }
+        ],
+        "Average Resolution Time Per Ticket Category": [
+            {
+                "Category": "Billing",
+                "Avg_Resolution_Hours": 36.513379583746286
+            },
+            {
+                "Category": "Complaint",
+                "Avg_Resolution_Hours": 37.35767195767196
+            },
+            {
+                "Category": "General Inquiry",
+                "Avg_Resolution_Hours": 37.310344827586206
+            },
+            {
+                "Category": "Network Issue",
+                "Avg_Resolution_Hours": 36.79567779960707
+            },
+            {
+                "Category": "Technical Support",
+                "Avg_Resolution_Hours": 36.82823297137216
+            }
+        ]
+    }
+}
