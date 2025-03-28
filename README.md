@@ -5,7 +5,7 @@ The **E&S GenAI Customer Service Agent** is an AI-powered assistant chatbot desi
 
 **Features:**
 
-- **LLM Integration**: Uses the `Microsoft Phi-2` open source large language model (LLM) to generate intelligent, human-like responses.
+- **LLM Integration**: Uses the `CohereForAI/c4ai-command-r7b-12-2024` open source large language model (LLM) to generate intelligent, human-like responses.
 - **Personalized Query Handling**: Processes customer queries based on provided data and domain knowledge.
 - **RAG Workflow**: Enhances response accuracy by retrieving relevant external knowledge.
 
