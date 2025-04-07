@@ -9,8 +9,9 @@ The **E&S GenAI Customer Service Agent** is an AI-powered assistant chatbot desi
 - **Personalized Query Handling**: Processes customer queries based on provided data and domain knowledge.
 - **RAG Workflow**: Enhances response accuracy by retrieving relevant external knowledge.
 
-
 **Requirements & Dependencies:**
+
+A large portion of the code was implemented on and is initialized for the Google Colab platform.
 
 To run this project, ensure you have the following dependencies installed:
 
