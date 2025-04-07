@@ -1,0 +1,40 @@
+{
+    "Regional Popularity": [
+        "The city of Quetta has 75 active users.",
+        "The city of Lahore has 73 active users.",
+        "The city of Peshawar has 62 active users.",
+        "The city of Faisalabad has 61 active users.",
+        "The city of Rawalpindi has 60 active users.",
+        "The city of Islamabad has 59 active users.",
+        "The city of Multan has 58 active users.",
+        "The city of Karachi has 52 active users."
+    ],
+    "User Type Distribution": [
+        "There are 263 Postpaid users in the network.",
+        "There are 237 Prepaid users in the network."
+    ],
+    "Regional User Type Distribution": [
+        "In Quetta, there are 33 postpaid users and 28 prepaid users.",
+        "In Lahore, there are 32 postpaid users and 27 prepaid users.",
+        "In Peshawar, there are 24 postpaid users and 28 prepaid users.",
+        "In Faisalabad, there are 42 postpaid users and 31 prepaid users.",
+        "In Rawalpindi, there are 27 postpaid users and 31 prepaid users.",
+        "In Islamabad, there are 40 postpaid users and 22 prepaid users.",
+        "In Multan, there are 35 postpaid users and 40 prepaid users.",
+        "In Karachi, there are 30 postpaid users and 30 prepaid users."
+    ],
+    "Most Common Ticket Categories": [
+        "The 'Network Issue' category has 1018 support tickets.",
+        "The 'General Inquiry' category has 1015 support tickets.",
+        "The 'Technical Support' category has 1013 support tickets.",
+        "The 'Billing' category has 1009 support tickets.",
+        "The 'Complaint' category has 945 support tickets."
+    ],
+    "Average Resolution Time Per Ticket Category": [
+        "The average resolution time for 'Billing' tickets is 36.51 hours.",
+        "The average resolution time for 'Complaint' tickets is 37.36 hours.",
+        "The average resolution time for 'General Inquiry' tickets is 37.31 hours.",
+        "The average resolution time for 'Network Issue' tickets is 36.8 hours.",
+        "The average resolution time for 'Technical Support' tickets is 36.83 hours."
+    ]
+}
